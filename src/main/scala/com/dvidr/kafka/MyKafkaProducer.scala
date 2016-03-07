@@ -3,7 +3,7 @@ package com.dvidr
 import java.io.File
 import java.util.Properties
 import kafka.javaapi.producer.Producer
-import kafka.producer.{KeyedMessage,ProducerConfig}
+import kafka.producer.{KeyedMessage, ProducerConfig}
 import org.apache.commons.io.input.{TailerListenerAdapter, Tailer, TailerListener}
 
 
